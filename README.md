@@ -1,4 +1,5 @@
 # Favorite Desserts
 
 - Michelle: fruit tarts
-- Ruth: pie
+- Ruth: cake
+- Dan: chocolate
